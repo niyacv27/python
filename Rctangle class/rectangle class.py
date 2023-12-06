@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 class Rectangle:
     def _init_(self):
         self.length=int(input("Enter the length:"))
