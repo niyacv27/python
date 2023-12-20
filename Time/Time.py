@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 class Time:
     def __init__(self,hours,mins,sec):
         self.hours=hours
